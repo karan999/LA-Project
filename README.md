@@ -1,1 +1,1 @@
-#LA-Projecy
+# LA-Project
